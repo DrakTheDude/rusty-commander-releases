@@ -7,6 +7,8 @@ processes or a performance monitor, and the F-keys change to match what is selec
 
 It runs in any terminal, including over SSH, and works with the keyboard or the mouse.
 
+![Performance on a 56-core server, with the F2 panel picker open](screenshots/performance.png)
+
 ## Install
 
 Download the `.deb` for your machine from [Releases](../../releases/latest): `amd64` for most
@@ -70,6 +72,18 @@ folder first measures it and shows what would go (files, size, the largest ones)
 
 Every action checks the result afterwards and says what is now true, not just that a command
 ran.
+
+## Screenshots
+
+**Containers** in the Classic skin: a compose project opened, with F3 showing the container's
+image, restart policy and mounts.
+
+![Containers in the Classic Norton Commander skin](screenshots/containers-classic.png)
+
+**Services** with the settings open (Ctrl+S): a failed unit at the top in red, the selected
+unit's details on the right.
+
+![Services with the settings popup](screenshots/services-settings.png)
 
 ## Settings
 
