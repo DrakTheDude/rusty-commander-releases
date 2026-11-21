@@ -1,0 +1,29 @@
+drax-commander freeware license
+
+Copyright (c) 2026 Petr Draxler. All rights reserved.
+
+drax-commander ("the Software") is distributed free of charge as compiled packages.
+Its source code is not published under this license.
+
+You may:
+  - install and use the Software, for personal or work purposes, free of charge;
+  - give unmodified copies of the Software's release packages (for example the .deb)
+    to others, free of charge.
+
+You may not:
+  - sell the Software, or bundle it with anything that is sold;
+  - modify, decompile, disassemble or reverse engineer the Software, except to the
+    extent that applicable law expressly permits it regardless of this limitation;
+  - remove or alter this notice or the copyright notices in the Software.
+
+No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+CLAIM, DAMAGES (INCLUDING LOSS OF DATA) OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Third-party components included in the Software remain under their own licenses, listed
+with their full texts in THIRD-PARTY-LICENSES (installed as
+/usr/share/doc/drax-commander/THIRD-PARTY-LICENSES). Nothing in this license limits the
+rights those licenses give you.
