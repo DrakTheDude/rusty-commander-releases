@@ -1,4 +1,4 @@
-# drax-commander
+# rusty-commander
 
 A two-panel terminal workspace for Ubuntu and Debian, in the Norton Commander tradition: a menu
 bar, two panels, a live command line and an F-key bar. The panels are not just files. Each one
@@ -15,15 +15,17 @@ Download the `.deb` for your machine from [Releases](../../releases/latest): `am
 PCs and servers, `arm64` for ARM boards and servers. Then, from the folder you saved it in:
 
 ```bash
-cp drax-commander_*_amd64.deb /tmp/ && sudo apt install /tmp/drax-commander_*_amd64.deb
+cp rusty-commander_*_amd64.deb /tmp/ && sudo apt install /tmp/rusty-commander_*_amd64.deb
 ```
 
 (Copying to `/tmp` first only avoids a harmless apt notice about files in your home folder.)
 
-Start it with `drax-commander`, or from your desktop's app menu.
+Start it with `rusty-commander`, or from your desktop's app menu.
 
 **Upgrade:** install the newer `.deb` the same way.
-**Remove:** `sudo apt remove drax-commander`
+**Had drax-commander?** That was this app's old name. Installing rusty-commander replaces it,
+and your settings, command history and recent shares move over on first start.
+**Remove:** `sudo apt remove rusty-commander`
 
 Needs Ubuntu 22.04 or newer, or Debian 12 or newer.
 
@@ -89,7 +91,7 @@ unit's details on the right.
 
 Ctrl+S (or click **≡ Settings**): your editor, the skin (Ubuntu or Classic Norton Commander
 blue), the layout at start, how often panels refresh, hidden files, mouse, the headline bar, and
-whether copy and move ask first. They are saved in `~/.config/drax-commander/config.toml`.
+whether copy and move ask first. They are saved in `~/.config/rusty-commander/config.toml`.
 
 ## Feedback
 
@@ -100,4 +102,4 @@ Petr Draxler <petrdraxler@gmail.com>
 Free to use, at home or at work, and to pass on unmodified. It may not be sold, modified or
 reverse engineered. See [LICENSE](LICENSE). The open-source components it includes keep their
 own licenses, listed in [THIRD-PARTY-LICENSES](THIRD-PARTY-LICENSES) (also installed in
-`/usr/share/doc/drax-commander/`).
+`/usr/share/doc/rusty-commander/`).

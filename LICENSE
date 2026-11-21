@@ -1,8 +1,8 @@
-drax-commander freeware license
+rusty-commander freeware license (formerly drax-commander)
 
 Copyright (c) 2026 Petr Draxler. All rights reserved.
 
-drax-commander ("the Software") is distributed free of charge as compiled packages.
+rusty-commander ("the Software") is distributed free of charge as compiled packages.
 Its source code is not published under this license.
 
 You may:
@@ -25,5 +25,5 @@ THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Third-party components included in the Software remain under their own licenses, listed
 with their full texts in THIRD-PARTY-LICENSES (installed as
-/usr/share/doc/drax-commander/THIRD-PARTY-LICENSES). Nothing in this license limits the
+/usr/share/doc/rusty-commander/THIRD-PARTY-LICENSES). Nothing in this license limits the
 rights those licenses give you.

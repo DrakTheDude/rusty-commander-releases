@@ -1,8 +1,8 @@
-Third-party software in drax-commander
-======================================
+Third-party software in rusty-commander
+=======================================
 
-drax-commander includes the open-source components below. Each is used under the license
-named, and that license's full text follows. drax-commander's own license (LICENSE) does
+rusty-commander includes the open-source components below. Each is used under the license
+named, and that license's full text follows. rusty-commander's own license (LICENSE) does
 not limit the rights these licenses give you.
 
 MIT License: 107 components
