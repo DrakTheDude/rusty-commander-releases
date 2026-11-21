@@ -65,7 +65,8 @@ folder first measures it and shows what would go (files, size, the largest ones)
   restart, stop, remove.
 - **Processes:** sort by CPU or memory; F8 asks a process to stop, F7 forces it.
 - **Performance:** CPU per core, memory, disks with their read/write, network. F9 shows a live
-  graph of the selected one.
+  graph of the selected one. On WSL it also shows the Windows PC itself: its CPU, all of its
+  memory, and its drives.
 
 Every action checks the result afterwards and says what is now true, not just that a command
 ran.
